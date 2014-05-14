@@ -1,0 +1,38 @@
+﻿<Window x:Class="SC2Grid.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="100" Width="525">
+    <Window.Effect>
+        <DropShadowEffect/>
+    </Window.Effect>
+    <Grid x:Name="sc2grid">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Minerals" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" MouseDoubleClick="Minerals_MouseDoubleClick"/>
+        <Label Name ="Mineral" Content="0" HorizontalAlignment="Center" FontWeight="Bold" Grid.Row="1" Grid.Column="0"/>
+        <Label Content="Gas" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center" MouseDoubleClick="Gas_MouseDoubleClick"/>
+        <Label Name="Gas" Content="0" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" FontWeight="Bold"/>
+        <Label Content="Supply" Grid.Row="0" Grid.Column="2" HorizontalAlignment="Center" MouseDoubleClick="Supply_MouseDoubleClick"/>
+        <Label Name="Supply" Content="0" Grid.Row="1" Grid.Column="2" HorizontalAlignment="Center" FontWeight="Bold"/>
+        <Label Content="APM" Grid.Row="0" Grid.Column="3" HorizontalAlignment="Center" />
+        <Label Name="APM" Content="0" Grid.Row="1" Grid.Column="3" HorizontalAlignment="Center" FontWeight="Bold"/>
+        <Button Name="start_button" Content="Start" Grid.Column="4" Grid.RowSpan="2" Width="75" Height="50" Click="Button_Click_1"/>
+        <DockPanel Grid.Column="5" Grid.RowSpan="2">
+            <Button Name="dpad_left" DockPanel.Dock="Left" Height="40" Width="15" Click="boxLeft" />
+            <Button Name="dpad_right" DockPanel.Dock="Right" Height="40" Width="15" Click="boxRight"/>
+            <Button Name="dpad_up" DockPanel.Dock="Top" Height="15" Click="boxUp"/>
+            <Button Name="dpad_down" DockPanel.Dock="Bottom" Height="15" Click="boxDown"/>
+            <Button Name="save_button" Click="boxSave">Config</Button>
+        </DockPanel>
+    </Grid>
+</Window>

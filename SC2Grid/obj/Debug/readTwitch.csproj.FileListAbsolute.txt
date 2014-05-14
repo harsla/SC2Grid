@@ -1,0 +1,62 @@
+c:\users\sharsla\documents\visual studio 2012\Projects\readTwitch\readTwitch\bin\Debug\readTwitch.exe.config
+c:\users\sharsla\documents\visual studio 2012\Projects\readTwitch\readTwitch\bin\Debug\readTwitch.exe
+c:\users\sharsla\documents\visual studio 2012\Projects\readTwitch\readTwitch\bin\Debug\readTwitch.pdb
+c:\users\sharsla\documents\visual studio 2012\Projects\readTwitch\readTwitch\bin\Debug\tesseract.dll
+c:\users\sharsla\documents\visual studio 2012\Projects\readTwitch\readTwitch\obj\Debug\readTwitch.csprojResolveAssemblyReference.cache
+c:\users\sharsla\documents\visual studio 2012\Projects\readTwitch\readTwitch\obj\Debug\MainWindow.baml
+c:\users\sharsla\documents\visual studio 2012\Projects\readTwitch\readTwitch\obj\Debug\MainWindow.g.cs
+c:\users\sharsla\documents\visual studio 2012\Projects\readTwitch\readTwitch\obj\Debug\App.g.cs
+c:\users\sharsla\documents\visual studio 2012\Projects\readTwitch\readTwitch\obj\Debug\readTwitch_MarkupCompile.cache
+c:\users\sharsla\documents\visual studio 2012\Projects\readTwitch\readTwitch\obj\Debug\readTwitch.g.resources
+c:\users\sharsla\documents\visual studio 2012\Projects\readTwitch\readTwitch\obj\Debug\readTwitch.Properties.Resources.resources
+c:\users\sharsla\documents\visual studio 2012\Projects\readTwitch\readTwitch\obj\Debug\readTwitch.csproj.GenerateResource.Cache
+c:\users\sharsla\documents\visual studio 2012\Projects\readTwitch\readTwitch\obj\Debug\readTwitch.exe
+c:\users\sharsla\documents\visual studio 2012\Projects\readTwitch\readTwitch\obj\Debug\readTwitch.pdb
+C:\Users\sharsla\documents\visual studio 2012\Projects\readTwitch\readTwitch\bin\Debug\sc2tools.dll
+C:\Users\sharsla\documents\visual studio 2012\Projects\readTwitch\readTwitch\bin\Debug\sc2tools.pdb
+C:\Users\Scott\Documents\GitHub\readTwitch\readTwitch\bin\Debug\readTwitch.exe.config
+C:\Users\Scott\Documents\GitHub\readTwitch\readTwitch\obj\Debug\readTwitch.exe
+C:\Users\Scott\Documents\GitHub\readTwitch\readTwitch\obj\Debug\readTwitch.pdb
+C:\Users\Scott\Documents\GitHub\readTwitch\readTwitch\bin\Debug\readTwitch.exe
+C:\Users\Scott\Documents\GitHub\readTwitch\readTwitch\bin\Debug\readTwitch.pdb
+C:\Users\Scott\Documents\GitHub\readTwitch\readTwitch\bin\Debug\sc2tools.dll
+C:\Users\Scott\Documents\GitHub\readTwitch\readTwitch\bin\Debug\tesseract.dll
+C:\Users\Scott\Documents\GitHub\readTwitch\readTwitch\bin\Debug\sc2tools.pdb
+C:\Users\Scott\Documents\GitHub\readTwitch\readTwitch\obj\Debug\readTwitch.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Documents\GitHub\readTwitch\readTwitch\obj\Debug\MainWindow.baml
+C:\Users\Scott\Documents\GitHub\readTwitch\readTwitch\obj\Debug\MainWindow.g.cs
+C:\Users\Scott\Documents\GitHub\readTwitch\readTwitch\obj\Debug\App.g.cs
+C:\Users\Scott\Documents\GitHub\readTwitch\readTwitch\obj\Debug\readTwitch_MarkupCompile.cache
+C:\Users\Scott\Documents\GitHub\readTwitch\readTwitch\obj\Debug\readTwitch.g.resources
+C:\Users\Scott\Documents\GitHub\readTwitch\readTwitch\obj\Debug\readTwitch.Properties.Resources.resources
+C:\Users\Scott\Documents\GitHub\readTwitch\readTwitch\obj\Debug\readTwitch.csproj.GenerateResource.Cache
+C:\Users\sharsla\Documents\GitHub\readTwitch\readTwitch\bin\Debug\readTwitch.exe.config
+C:\Users\sharsla\Documents\GitHub\readTwitch\readTwitch\bin\Debug\readTwitch.exe
+C:\Users\sharsla\Documents\GitHub\readTwitch\readTwitch\bin\Debug\readTwitch.pdb
+C:\Users\sharsla\Documents\GitHub\readTwitch\readTwitch\bin\Debug\sc2tools.dll
+C:\Users\sharsla\Documents\GitHub\readTwitch\readTwitch\bin\Debug\tesseract.dll
+C:\Users\sharsla\Documents\GitHub\readTwitch\readTwitch\bin\Debug\sc2tools.pdb
+C:\Users\sharsla\Documents\GitHub\readTwitch\readTwitch\obj\Debug\readTwitch.csprojResolveAssemblyReference.cache
+C:\Users\sharsla\Documents\GitHub\readTwitch\readTwitch\obj\Debug\MainWindow.baml
+C:\Users\sharsla\Documents\GitHub\readTwitch\readTwitch\obj\Debug\MainWindow.g.cs
+C:\Users\sharsla\Documents\GitHub\readTwitch\readTwitch\obj\Debug\App.g.cs
+C:\Users\sharsla\Documents\GitHub\readTwitch\readTwitch\obj\Debug\readTwitch_MarkupCompile.cache
+C:\Users\sharsla\Documents\GitHub\readTwitch\readTwitch\obj\Debug\readTwitch.g.resources
+C:\Users\sharsla\Documents\GitHub\readTwitch\readTwitch\obj\Debug\readTwitch.Properties.Resources.resources
+C:\Users\sharsla\Documents\GitHub\readTwitch\readTwitch\obj\Debug\readTwitch.csproj.GenerateResource.Cache
+C:\Users\sharsla\Documents\GitHub\readTwitch\readTwitch\obj\Debug\readTwitch.exe
+C:\Users\sharsla\Documents\GitHub\readTwitch\readTwitch\obj\Debug\readTwitch.pdb
+C:\Users\Scott\Documents\git\readTwitch\readTwitch\bin\Debug\readTwitch.exe.config
+C:\Users\Scott\Documents\git\readTwitch\readTwitch\obj\Debug\readTwitch.exe
+C:\Users\Scott\Documents\git\readTwitch\readTwitch\obj\Debug\readTwitch.pdb
+C:\Users\Scott\Documents\git\readTwitch\readTwitch\bin\Debug\readTwitch.exe
+C:\Users\Scott\Documents\git\readTwitch\readTwitch\bin\Debug\readTwitch.pdb
+C:\Users\Scott\Documents\git\readTwitch\readTwitch\obj\Debug\readTwitch.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Documents\git\readTwitch\readTwitch\obj\Debug\MainWindow.baml
+C:\Users\Scott\Documents\git\readTwitch\readTwitch\obj\Debug\MainWindow.g.cs
+C:\Users\Scott\Documents\git\readTwitch\readTwitch\obj\Debug\App.g.cs
+C:\Users\Scott\Documents\git\readTwitch\readTwitch\obj\Debug\readTwitch_MarkupCompile.cache
+C:\Users\Scott\Documents\git\readTwitch\readTwitch\obj\Debug\readTwitch.g.resources
+C:\Users\Scott\Documents\git\readTwitch\readTwitch\obj\Debug\readTwitch.Properties.Resources.resources
+C:\Users\Scott\Documents\git\readTwitch\readTwitch\obj\Debug\readTwitch.csproj.GenerateResource.Cache
+C:\Users\Scott\Documents\git\readTwitch\readTwitch\bin\Debug\sc2Grid.exe.config

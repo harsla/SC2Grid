@@ -1,0 +1,16 @@
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\SC2Grid\SC2Grid\bin\Debug\SC2Grid.exe.config
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\SC2Grid\SC2Grid\bin\Debug\SC2Grid.exe
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\SC2Grid\SC2Grid\bin\Debug\SC2Grid.pdb
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\SC2Grid\SC2Grid\obj\Debug\SC2Grid.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\SC2Grid\SC2Grid\obj\Debug\MainWindow.baml
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\SC2Grid\SC2Grid\obj\Debug\MainWindow.g.cs
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\SC2Grid\SC2Grid\obj\Debug\App.g.cs
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\SC2Grid\SC2Grid\obj\Debug\SC2Grid_Content.g.cs
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\SC2Grid\SC2Grid\obj\Debug\SC2Grid_MarkupCompile.cache
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\SC2Grid\SC2Grid\obj\Debug\SC2Grid.g.resources
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\SC2Grid\SC2Grid\obj\Debug\SC2Grid.Properties.Resources.resources
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\SC2Grid\SC2Grid\obj\Debug\SC2Grid.csproj.GenerateResource.Cache
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\SC2Grid\SC2Grid\obj\Debug\SC2Grid.exe
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\SC2Grid\SC2Grid\obj\Debug\SC2Grid.pdb
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\SC2Grid\SC2Grid\bin\Debug\tesseract.dll
+C:\Users\Scott\Documents\Visual Studio 2012\Projects\SC2Grid\SC2Grid\bin\Debug\utility.dll
