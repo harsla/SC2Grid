@@ -27,36 +27,36 @@ namespace SC2Grid
         //mineral properties
         int[] minerals = new int[3];
         bool mineralCooldown = false;
-        System.Media.SoundPlayer mineralHigh = new System.Media.SoundPlayer(@"C:\Users\Scott\Documents\Visual Studio 2012\Projects\SC2Grid\SC2Grid\events\minerals.wav");
+        System.Media.SoundPlayer mineralHigh = new System.Media.SoundPlayer(@"events\minerals.wav");
         DispatcherTimer mineralTimer = new DispatcherTimer();
 
         //gas properties
         int[] gas = new int[3];
         bool gasCooldown = false;
-        System.Media.SoundPlayer gasHigh = new System.Media.SoundPlayer(@"C:\Users\Scott\Documents\Visual Studio 2012\Projects\SC2Grid\SC2Grid\events\gas.wav");
+        System.Media.SoundPlayer gasHigh = new System.Media.SoundPlayer(@"events\gas.wav");
         DispatcherTimer gasTimer = new DispatcherTimer();
 
         //supply properties
         int[,] supply = new int[3,2];
         bool supplyCooldown = false;
-        System.Media.SoundPlayer supplyHigh = new System.Media.SoundPlayer(@"C:\Users\Scott\Documents\Visual Studio 2012\Projects\SC2Grid\SC2Grid\events\supply.wav");
+        System.Media.SoundPlayer supplyHigh = new System.Media.SoundPlayer(@"events\supply.wav");
         DispatcherTimer supplyTimer = new DispatcherTimer();
 
         
         //inject properties
         //string[] inject;
         bool injectCooldown = false;
-        System.Media.SoundPlayer injectLarva = new System.Media.SoundPlayer(@"C:\Users\Scott\Documents\Visual Studio 2012\Projects\SC2Grid\SC2Grid\events\single.wav");
+        System.Media.SoundPlayer injectLarva = new System.Media.SoundPlayer(@"events\single.wav");
         DispatcherTimer injectTimer = new DispatcherTimer();
         
 
         //apm properties
-        System.Media.SoundPlayer apmLow = new System.Media.SoundPlayer(@"C:\Users\Scott\Documents\Visual Studio 2012\Projects\SC2Grid\SC2Grid\events\apm.wav");
+        System.Media.SoundPlayer apmLow = new System.Media.SoundPlayer(@"events\apm.wav");
         bool apmCooldown = false;
         DispatcherTimer apmTimer = new DispatcherTimer();
         
         //worker properties
-        System.Media.SoundPlayer buildWorker = new System.Media.SoundPlayer(@"C:\Users\Scott\Documents\Visual Studio 2012\Projects\SC2Grid\SC2Grid\events\worker.wav");
+        System.Media.SoundPlayer buildWorker = new System.Media.SoundPlayer(@"events\worker.wav");
         bool workerCooldown = false;
         bool workerKeyPressed = false;
         DispatcherTimer workerTimer = new DispatcherTimer();
