@@ -1,7 +1,0 @@
-System.ComponentModel.Win32Exception (0x80004005): The handle is invalid
-   at System.Drawing.Graphics.CopyFromScreen(Int32 sourceX, Int32 sourceY, Int32 destinationX, Int32 destinationY, Size blockRegionSize, CopyPixelOperation copyPixelOperation)
-   at System.Drawing.Graphics.CopyFromScreen(Int32 sourceX, Int32 sourceY, Int32 destinationX, Int32 destinationY, Size blockRegionSize)
-   at SC2Grid.ScreenReader.ReadScreen(Double _x, Double _y, Double _width, Double _height) in c:\Users\Scott\Documents\Visual Studio 2012\Projects\SC2Grid\SC2Grid\engine\ScreenReader.cs:line 106
-   at SC2Grid.MainWindow.checkMinerals() in c:\Users\Scott\Documents\Visual Studio 2012\Projects\SC2Grid\SC2Grid\MainWindow.xaml.cs:line 288
-   at SC2Grid.MainWindow.scrape() in c:\Users\Scott\Documents\Visual Studio 2012\Projects\SC2Grid\SC2Grid\MainWindow.xaml.cs:line 186
-   at SC2Grid.MainWindow.scrape_timer(Object sender, EventArgs e) in c:\Users\Scott\Documents\Visual Studio 2012\Projects\SC2Grid\SC2Grid\MainWindow.xaml.cs:line 161
